@@ -1,4 +1,6 @@
-# trans-lives-matter
+# translivesmatter.xyz
+
+A resource website for organizations and charities focused on the transgender community
 
 ## Project setup
 ```
