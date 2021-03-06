@@ -1,3 +1,3 @@
 # translivesmatter.xyz
 
-A resource website for organizations and charities focused on the transgender community
+A resource website for organizations and charities supporting the transgender community
