@@ -1,5 +1,7 @@
 <template>
   <footer id="footer">
+    <a href="https://www.theycount.xyz"><p>Learn more</p></a>
+    <span>|</span>
     <p>© Copyright 2021</p>
   </footer>
 </template>
@@ -26,5 +28,20 @@ export default {
     font-family: "OpenSans", Arial, Helvetica, sans-serif;
     padding: 0px 5px;
     color: white;
+  }
+
+  #footer span {
+    padding: 0px 5px;
+    color: white;
+    font-size:20px;
+  }
+
+  #footer a {
+    color: white;
+    text-decoration: none;
+  }
+
+  #footer a:visited {
+    text-decoration: none;
   }
 </style>
