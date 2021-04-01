@@ -23,7 +23,7 @@ export default {
     return {
       organizations: [
         {name: "For The Gworls", link: "https://www.forthegworls.party/donate"},
-        {name: "Homless Black Trans Women Fund", link: "https://www.gofundme.com/f/p6q5sm-homeless-black-trans-women-fund?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet"},
+        {name: "Homeless Black Trans Women Fund", link: "https://www.gofundme.com/f/p6q5sm-homeless-black-trans-women-fund?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet"},
         {name: "TransLatin@ Coalition", link: "https://www.translatinacoalition.org/donate"},
         {name: "The Okra Project", link: "https://www.theokraproject.com/"},
         {name: "Mermaids", link: "https://mermaidsuk.org.uk/donate/"},
