@@ -6,7 +6,7 @@
     </div>
 
     <div class="paragraph">
-      <p>At least 44 transgender and gender non-conforming people were killed in the United States in 2020. Most of the victims were young Black and Latinx transgender women.</p>
+      <p>At least 44 transgender and gender non-conforming people were killed in the United States in 2020. Most of the victims were young Black and Latina transgender women.</p>
     </div>
 
     <div class="paragraph">
