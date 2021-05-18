@@ -10,7 +10,7 @@
     </div>
 
     <div class="paragraph">
-      <p>Please consider donating to one of the following organizations.</p>
+      <p>Trans people in the United States and around the world need our support. Help out by donating to one of the following organizations.</p>
     </div>
 
   </div>
